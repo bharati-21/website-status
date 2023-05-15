@@ -6,3 +6,5 @@ package-lock.json
 .env.local
 yarn-error.log
 coverage
+.env.development
+.eslintrc.json
